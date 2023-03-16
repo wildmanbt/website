@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/index.php</loc>
+		<lastmod>2023-03-16</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<image:image>
+			<image:loc>https://github.com/wildmanbt/siteweb.git/images/nb.png</image:loc>
+			<image:caption><![CDATA[los nuevos modelos de infantil  2023]]></image:caption>
+			<image:geo_location><![CDATA[santo domingo]]></image:geo_location>
+			<image:title><![CDATA[lo nuevo 2023]]></image:title>
+		</image:image>
+		<image:image>
+			<image:loc>https://github.com/wildmanbt/siteweb.git/images/boton.png</image:loc>
+			<image:caption><![CDATA[ropa de bebe]]></image:caption>
+			<image:geo_location><![CDATA[santo domingo]]></image:geo_location>
+			<image:title><![CDATA[ropa de bebe]]></image:title>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/nosotros.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/contacto.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/tenis-de-ninas.html</loc>
+		<lastmod>2023-03-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/tenis-de-ninos.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/envio.php</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/ropa.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/politicas-de-devolucion.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/blog/</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/ofertas.html</loc>
+		<lastmod>2023-03-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/tenis.html</loc>
+		<lastmod>2023-03-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/lo-nuevo.html</loc>
+		<lastmod>2023-03-15</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+	<url>
+		<loc>https://github.com/wildmanbt/siteweb.git/politicas-de-privasidad.html</loc>
+		<lastmod>2023-03-12</lastmod>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+	</url>
+</urlset>
